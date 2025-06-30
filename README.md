@@ -133,9 +133,8 @@ This project is created for demonstration purposes. Please refer to the LICENSE 
 ## 📞 Support
 
 For questions about this demo or potential implementation:
-- Email: [your-email@example.com]
+- Email: [adedoyinvictor2015@gmail.com]
 - Project Issues: GitHub Issues tab
 
----
 
 **Note**: This is a demonstration chatbot. For actual medical emergencies, please contact emergency services immediately.
